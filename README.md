@@ -42,6 +42,7 @@ The visualizations were created using the following types of charts:
 - **Bar Charts**: Used for displaying the top 10 movies by profit and top 10 directors by IMDb rating.
 - **Pie Chart**: Used for showing the most 10 countries by filmmaking expenditures.
 - **Column Chart**: Used for presenting the top 10 movies by IMDb rating.
+
 ![IMDB Movies Dashboard ](https://github.com/user-attachments/assets/330216c7-6a52-4fe0-ae48-cbe4e6d02c62)
 
 ## Insights
